@@ -1,4 +1,4 @@
-# Bounday-Value-Analysis-Testing
+# Boundary-Value-Analysis-Testing
 
 # Introduction
 
